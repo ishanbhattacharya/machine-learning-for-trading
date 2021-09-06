@@ -45,9 +45,9 @@ Returns for holding periods of 1,5,10,21,42 and 63 days are added as target vari
 
 The notebook **03_LinearModels.ipynb** applies Ridge Regression and Logistic Regression to predict returns/market movements.
 
-The notebook **04_TimeSeries.ipynb** decomposes the series, makes it stationary and applies ARMA and VAR to predict returns.
-
 <img align="right" src="./docs/clusters.PNG" height="250">
+
+The notebook **04_TimeSeries.ipynb** decomposes the series, makes it stationary and applies ARMA and VAR to predict returns.
 
 The notebook **05_UnsupervisedLearning.ipynb** applies PCA on the engineered features to extract the best 30 principal components (*/data/pcafeatureset.csv*). Further, PCA and Hierarchial Clustering are used to obtain weights for a bag of selected 100 stocks.
 
