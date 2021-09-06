@@ -1,6 +1,7 @@
 # Algorithmic Trading using Machine Learning
 
 This repository contains the source code for a Python Project which aims at studying different machine learning models and applying them in the domain of algorithmic trading.
+
 It also includes screeners for identifying potential stocks and backtesting strategies for each model. An online learning model is also prepared to be used during live trading.
 
 ## Getting Started
