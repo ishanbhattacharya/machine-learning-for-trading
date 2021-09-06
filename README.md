@@ -55,9 +55,9 @@ The notebook **06_BoostingMethods.ipynb** uses the PCA extracted features to tra
 
 All predictions are stored as CSVs in the directory */predictions*.
 
-#### Backtesting
-
 <img align="right" src="./docs/returns.PNG" height="300">
+
+#### Backtesting
 
 The notebook **07_Backtesting.ipynb** uses Backtrader to backtest the predictions for all the trading models. Further analysis is done using PyFolio.
 
