@@ -39,7 +39,7 @@ The notebook **01_Screener.ipynb** screens for momentum and value stocks based o
 
 The notebook **02_FeatureEngineering.ipynb** creates financial features from the data and accomodates technical and factor data to the dataset. The dataset is cleaned and categorical variables are encoded as well.
 
-Returns for holding periods of 1,5,10,21,42 and 63 days are added as target variables and stored in */data/featureset.csv*.
+Returns for holding periods of 1, 5, 10, 21, 42 and 63 days are added as target variables and stored in */data/featureset.csv*.
 
 #### Training
 
