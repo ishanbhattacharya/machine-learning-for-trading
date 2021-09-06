@@ -23,7 +23,6 @@ pip install yfinance
 conda install -c conda-forge ta-lib
 pip install backtrader
 conda install -c conda-forge pyfolio
-
 ```
 
 And, we're good to go!
