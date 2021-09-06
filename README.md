@@ -49,7 +49,9 @@ The notebook **03_LinearModels.ipynb** applies Ridge Regression and Logistic Reg
 
 The notebook **04_TimeSeries.ipynb** decomposes the series, makes it stationary and applies ARMA and VAR to predict returns.
 
-The notebook **05_UnsupervisedLearning.ipynb** applies PCA on the engineered features to extract the best 30 principal components (*/data/pcafeatureset.csv*). Further, PCA and Hierarchial Clustering are used to obtain weights for a bag of selected 100 stocks.
+The notebook **05_UnsupervisedLearning.ipynb** applies PCA on the engineered features to extract the best 30 principal components (*/data/pcafeatureset.csv*).
+
+Further, PCA and Hierarchial Clustering are used to obtain weights for a bag of selected 100 stocks.
 
 The notebook **06_BoostingMethods.ipynb** uses the PCA extracted features to train XGBoost, LightGBM and CatBoost models to predict returns/market movements.
 
